@@ -1,0 +1,32 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "purpleTransparent.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2.45
+        }
+    },
+    "last.imagePath": "/Users/gowtham/Documents/GitHub/uoe-game-js/assets/Tilemap",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 25,
+    "openFiles": [
+        "purpleTransparent.tsx"
+    ],
+    "project": "uoe_map.tiled-project",
+    "recentFiles": [
+        "purpleTransparent.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
